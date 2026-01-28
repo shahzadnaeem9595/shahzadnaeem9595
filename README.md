@@ -21,4 +21,4 @@ production-grade backend systems using Node.js and NestJS.
 - Clean API design & system reliability
 
 📫 **Email:** naeemshahzad9595@gmail.com  
-🔗 **LinkedIn:** linkedin.com/in/maliknaeemshahzad
+🔗 **LinkedIn:** linkedin.com/in/dev-naeem-shahzad
