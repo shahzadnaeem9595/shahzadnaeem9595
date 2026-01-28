@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Naeem Shahzad 👋
 
-<!--
-**shahzadnaeem9595/shahzadnaeem9595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer with 5+ years of experience building scalable, 
+production-grade backend systems using Node.js and NestJS.
 
-Here are some ideas to get you started:
+### 💼 What I do
+- Design and build REST APIs for SaaS & FinTech platforms
+- Work heavily with PostgreSQL, SQL optimization & indexing
+- Handle authentication, authorization & role-based access
+- Deploy and maintain backend services (Linux, Nginx, PM2, Docker)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Backend:** Node.js, NestJS, Express.js, TypeScript
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **Infra:** AWS (EC2, S3), DigitalOcean, Docker, Nginx, PM2
+- **Others:** Socket.IO, Bull Queue, JWT, OAuth 2.0
+
+### 📌 Currently interested in
+- Scalable backend architectures
+- High-performance SQL systems
+- Clean API design & system reliability
+
+📫 **Email:** naeemshahzad9595@gmail.com  
+🔗 **LinkedIn:** linkedin.com/in/maliknaeemshahzad
